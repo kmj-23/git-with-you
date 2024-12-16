@@ -8,6 +8,8 @@ public class GitpracApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitpracApplication.class, args);
+        System.out.println("김민주가 쓴 프린트");
     }
+
 
 }
