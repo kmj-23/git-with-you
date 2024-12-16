@@ -8,7 +8,9 @@ public class GitpracApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitpracApplication.class, args);
-        System.out.println("김민주가 쓴 프린트");
+
+        System.out.println("우리 모두가 쓴 프린트");
+
     }
 
 
